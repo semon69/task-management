@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Complete project proposal",
+        "description": "Write a detailed project proposal for the new client",
+        "status": "Incomplete"
+    },
+    {
+        "title": "Review design mockups",
+        "description": "Provide feedback on the latest design mockups for the website",
+        "status": "Incomplete"
+    },
+    {
+        "title": "Update marketing campaign",
+        "description": "Revise the content and graphics for the upcoming marketing campaign",
+        "status": "Incomplete"
+    }
+]
